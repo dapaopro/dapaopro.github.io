@@ -1,7 +1,7 @@
-var ClaimContract = "0x77031a4b64ec1caed3944d2a0fb1c8292522a43d";
-var ChainId = 128;
-var ChainIdError = "请连接火币链钱包地址";
-var NFTContract = "0x6029852FbB3013983c5B090356c6157CF459Ad19";
-var NFTHolder = 10;
+var ClaimContract = "0xa777E2BF205a4b0aC9B2C0A78DAE187Cebb6205C";
+var ChainId = 17777;
+var ChainIdError = "请连接EOS EVM链钱包地址";
+var NFTContract = "0xA85FaCcd9d48dFb44fE20EBf26626124EB9b3dfE";
+var NFTHolder = 0;
 var ZeroAddress = "0x0000000000000000000000000000000000000000";
-var FinanceAddress = "0xAa01E8Bcf932aE11019A0135930c0d27818F3774";
+var FinanceAddress = "0xA85FaCcd9d48dFb44fE20EBf26626124EB9b3dfE";
