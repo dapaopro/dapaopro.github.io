@@ -1,8 +1,14 @@
-"tokenid": "0x603D077C9815AF34FB6A2C04C4E81190FD6469EB1222EEEE2033C7F6AD80FC41"
-MiniDoge 不是一个项目，而是MINIMA生态系统中的一个实验；
-MiniDoge属于MINIMA社区的每一个人；
-这里没有风投机构，也没有团队股份；
-所有代币都将被公平分配并应用于社区，这只是第一步
-这是一次伟大的社会实验，这是价值从零到无穷大或回归零的一次人性实验！
+                                                                            "tokenid": "0x603D077C9815AF34FB6A2C04C4E81190FD6469EB1222EEEE2033C7F6AD80FC41"
+                                                                            
+                                                                             MiniDoge 不是一个项目,而是MINIMA生态系统中的一个实验;
+                                                                             
+                                                                             MiniDoge属于MINIMA社区的每一个人;
+                                                                             
+                                                                             这里没有风投机构,也没有团队股份;
+                                                                             
+                                                                             所有代币都将被公平分配并应用于社区,这只是第一步;
+                                                                             
+                                                                             这是一次伟大的社会实验,这是价值从零到无穷大或回归零的一次人性实验!
+                                                                             
 
-                                                               官网：https://minimadoge.netlify.app/
+                                                                             官网:https://minimadoge.netlify.app/
